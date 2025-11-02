@@ -1,0 +1,5 @@
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Queue\AMESA_be.Queue\obj\Debug\net8.0\AMESA_be.Queue.csproj.AssemblyReference.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Queue\AMESA_be.Queue\obj\Debug\net8.0\AMESA_be.Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Queue\AMESA_be.Queue\obj\Debug\net8.0\AMESA_be.Queue.AssemblyInfoInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Queue\AMESA_be.Queue\obj\Debug\net8.0\AMESA_be.Queue.AssemblyInfo.cs
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Queue\AMESA_be.Queue\obj\Debug\net8.0\AMESA_be.Queue.csproj.CoreCompileInputs.cache

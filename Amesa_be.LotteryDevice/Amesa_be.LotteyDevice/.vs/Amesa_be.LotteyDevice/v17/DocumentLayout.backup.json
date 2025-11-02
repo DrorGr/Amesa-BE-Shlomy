@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3860EA-1450-4A0D-98F4-83641DCDD965}|..\\Amesa_be.LotteryDevice.Tests\\Amesa_be.LotteryDevice.Tests.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotterydevice.tests\\repository\\lotteryrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:controllers\\lotterycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\bl\\implementations\\lotterymanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:bl\\implementations\\lotterymanager .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dal\\implementations\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dal\\implementations\\lotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dtos\\lotterydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dtos\\lotterydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\bl\\implementations\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:bl\\implementations\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3860EA-1450-4A0D-98F4-83641DCDD965}|..\\Amesa_be.LotteryDevice.Tests\\Amesa_be.LotteryDevice.Tests.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotterydevice.tests\\manager\\lotterymanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dal\\interfaces\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dal\\interfaces\\ilotteryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\bl\\interfaces\\ilotterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:bl\\interfaces\\ilotterymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dbcontext\\lotterydbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dbcontext\\lotterydbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\models\\lottery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:models\\lottery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\mappers\\lotterymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:mappers\\lotterymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dtos\\executelotteryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dtos\\executelotteryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dtos\\preparelotteryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dtos\\preparelotteryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\dtos\\lotterywinnersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:dtos\\lotterywinnersdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\models\\lotterywinners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:models\\lotterywinners.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|c:\\users\\shlomibenavraham\\source\\repos\\amesa_be.lotterydevice\\amesa_be.lotteydevice\\models\\lotteryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75B64D2C-260B-4CA6-A53A-6072504A0D3C}|Amesa_be.LotteryDevice.csproj|solutionrelative:models\\lotteryuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:04:45.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Implementations\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "BL\\Implementations\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Implementations\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "BL\\Implementations\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:20:50.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LotteryManager .cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Implementations\\LotteryManager .cs",
+              "RelativeDocumentMoniker": "BL\\Implementations\\LotteryManager .cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Implementations\\LotteryManager .cs",
+              "RelativeToolTip": "BL\\Implementations\\LotteryManager .cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgv2EAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T22:18:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T22:05:47.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T22:04:20.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrepareLotteryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\PrepareLotteryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PrepareLotteryRequestDto.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\PrepareLotteryRequestDto.cs",
+              "RelativeToolTip": "DTOs\\PrepareLotteryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lottery.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\Lottery.cs",
+              "RelativeDocumentMoniker": "Models\\Lottery.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\Lottery.cs",
+              "RelativeToolTip": "Models\\Lottery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LotteryUser.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\LotteryUser.cs",
+              "RelativeDocumentMoniker": "Models\\LotteryUser.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\LotteryUser.cs",
+              "RelativeToolTip": "Models\\LotteryUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LotteryWinners.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\LotteryWinners.cs",
+              "RelativeDocumentMoniker": "Models\\LotteryWinners.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\LotteryWinners.cs",
+              "RelativeToolTip": "Models\\LotteryWinners.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LotteryWinnersDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\LotteryWinnersDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LotteryWinnersDto.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\LotteryWinnersDto.cs",
+              "RelativeToolTip": "DTOs\\LotteryWinnersDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILotteryManager.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Interfaces\\ILotteryManager.cs",
+              "RelativeDocumentMoniker": "BL\\Interfaces\\ILotteryManager.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\BL\\Interfaces\\ILotteryManager.cs",
+              "RelativeToolTip": "BL\\Interfaces\\ILotteryManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ILotteryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DAL\\Interfaces\\ILotteryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ILotteryRepository.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DAL\\Interfaces\\ILotteryRepository.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ILotteryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LotteryController.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Controllers\\LotteryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LotteryController.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Controllers\\LotteryController.cs",
+              "RelativeToolTip": "Controllers\\LotteryController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LotteryDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DBContext\\LotteryDbContext .cs",
+              "RelativeDocumentMoniker": "DBContext\\LotteryDbContext .cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DBContext\\LotteryDbContext .cs",
+              "RelativeToolTip": "DBContext\\LotteryDbContext .cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAlwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LotteryMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Mappers\\LotteryMapper.cs",
+              "RelativeDocumentMoniker": "Mappers\\LotteryMapper.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\Mappers\\LotteryMapper.cs",
+              "RelativeToolTip": "Mappers\\LotteryMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LotteryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DAL\\Implementations\\LotteryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\LotteryRepository.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DAL\\Implementations\\LotteryRepository.cs",
+              "RelativeToolTip": "DAL\\Implementations\\LotteryRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LotteryManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteryDevice.Tests\\Manager\\LotteryManagerTests.cs",
+              "RelativeDocumentMoniker": "..\\Amesa_be.LotteryDevice.Tests\\Manager\\LotteryManagerTests.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteryDevice.Tests\\Manager\\LotteryManagerTests.cs",
+              "RelativeToolTip": "..\\Amesa_be.LotteryDevice.Tests\\Manager\\LotteryManagerTests.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAA8wLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LotteryRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteryDevice.Tests\\Repository\\LotteryRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\Amesa_be.LotteryDevice.Tests\\Repository\\LotteryRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteryDevice.Tests\\Repository\\LotteryRepositoryTests.cs",
+              "RelativeToolTip": "..\\Amesa_be.LotteryDevice.Tests\\Repository\\LotteryRepositoryTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:44:36.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExecuteLotteryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\ExecuteLotteryRequestDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ExecuteLotteryRequestDto.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\ExecuteLotteryRequestDto.cs",
+              "RelativeToolTip": "DTOs\\ExecuteLotteryRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:46:27.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LotteryDto.cs",
+              "DocumentMoniker": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\LotteryDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LotteryDto.cs",
+              "ToolTip": "C:\\Users\\ShlomiBenAvraham\\source\\repos\\Amesa_be.LotteryDevice\\Amesa_be.LotteyDevice\\DTOs\\LotteryDto.cs",
+              "RelativeToolTip": "DTOs\\LotteryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T21:45:52.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

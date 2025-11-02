@@ -1,0 +1,30 @@
+﻿{
+    "AllowedHosts": "*",
+    "Serilog": {
+        "Using": [],
+        "MinimumLevel": {
+            "Default": "Information",
+            "Override": {
+                "Microsoft": "Warning",
+                "System": "Warning",
+                "Microsoft.EntityFrameworkCore.Database.Command": "Warning"
+            }
+        },
+        "WriteTo": [
+        {
+            "Name": "Console",
+            "Args": {
+                "outputTemplate": "{Timestamp:yyyy-MM-dd'T'HH:mm:ss.fff} [{LoggedInSessionId}::{UserID}] {Level:u3} {SourceContext} {Message:lj} {Character}{NewLine}{Exception}"
+            }
+        }
+        ],
+        "Enrich": [
+        "FromLogContext",
+        "WithMachineName",
+        "WithProcessId",
+        "WithThreadId"
+            ]
+
+    }
+}
+

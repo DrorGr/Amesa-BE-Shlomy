@@ -1,0 +1,15 @@
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\bin\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.deps.json
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\bin\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\bin\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\bin\Debug\net8.0\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\bin\Debug\net8.0\AMESA_be.common.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.csproj.AssemblyReference.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.AssemblyInfoInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.AssemblyInfo.cs
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.725DEA9F.Up2Date
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\refint\AMESA_be.AMESAJWTAuthentication.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\AMESA_be.AMESAJWTAuthentication.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.AMESAJWTAuthentication\AMESA_be.AMESAJWTAuthentication\obj\Debug\net8.0\ref\AMESA_be.AMESAJWTAuthentication.dll

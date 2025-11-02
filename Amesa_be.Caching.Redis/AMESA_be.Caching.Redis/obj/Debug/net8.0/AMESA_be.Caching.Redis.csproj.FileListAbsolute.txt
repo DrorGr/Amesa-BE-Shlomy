@@ -1,0 +1,15 @@
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\bin\Debug\net8.0\AMESA_be.Caching.Redis.deps.json
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\bin\Debug\net8.0\AMESA_be.Caching.Redis.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\bin\Debug\net8.0\AMESA_be.Caching.Redis.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\bin\Debug\net8.0\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\bin\Debug\net8.0\AMESA_be.common.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.csproj.AssemblyReference.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.AssemblyInfoInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.AssemblyInfo.cs
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.csproj.CoreCompileInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.696FEE2D.Up2Date
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\refint\AMESA_be.Caching.Redis.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\AMESA_be.Caching.Redis.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Caching.Redis\AMESA_be.Caching.Redis\obj\Debug\net8.0\ref\AMESA_be.Caching.Redis.dll

@@ -1,0 +1,15 @@
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\bin\Debug\net8.0\AMESA_be.Middleware.deps.json
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\bin\Debug\net8.0\AMESA_be.Middleware.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\bin\Debug\net8.0\AMESA_be.Middleware.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\bin\Debug\net8.0\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\bin\Debug\net8.0\AMESA_be.common.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.csproj.AssemblyReference.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.AssemblyInfoInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.AssemblyInfo.cs
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.csproj.CoreCompileInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.D1841C63.Up2Date
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\refint\AMESA_be.Middleware.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\AMESA_be.Middleware.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.Middleware\AMESA_BE.Middleware\obj\Debug\net8.0\ref\AMESA_be.Middleware.dll

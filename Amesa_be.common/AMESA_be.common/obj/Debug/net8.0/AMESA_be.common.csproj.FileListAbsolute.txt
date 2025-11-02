@@ -1,0 +1,12 @@
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\bin\Debug\net8.0\AMESA_be.common.deps.json
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\bin\Debug\net8.0\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\bin\Debug\net8.0\AMESA_be.common.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.csproj.AssemblyReference.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.AssemblyInfoInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.AssemblyInfo.cs
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.csproj.CoreCompileInputs.cache
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\refint\AMESA_be.common.dll
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\AMESA_be.common.pdb
+C:\Users\ShlomiBenAvraham\source\repos\Amesa_be.common\AMESA_be.common\obj\Debug\net8.0\ref\AMESA_be.common.dll
